@@ -1,6 +1,6 @@
 # JumpKneeDataAlignment
 
-This repository contains a set of MATLAB and Python scripts designed to synchronize electromyography (EMG) and 3D motion capture data collected during drop vertical jump (DVJ) trials. The goal is to facilitate the analysis of knee biomechanics by aligning EMG signals with corresponding motion data.
+This repository contains a collection of MATLAB and Python scripts developed for the project Drop Vertical Jumps to Assess Risk for Knee Degeneration and Future Total Knee Arthroplasty. The goal of this work is to synchronize surface electromyography (EMG) data with 3D motion capture recordings collected during drop vertical jump (DVJ) trials. By aligning muscle activation patterns with joint movement data, the project supports detailed analysis of knee biomechanics. This synchronization is a critical step toward identifying movement-related risk factors that may contribute to knee degeneration and the eventual need for surgical intervention.
 
 ## Repository Structure
 
